@@ -1,0 +1,88 @@
+.container{
+    height: 90vh;
+    /* background:linear-gradient(rgb(199, 193, 253),aqua); */
+    margin: 5px 0px;
+}
+
+#meal{
+    height: 80vh;
+    width: 92%;
+    border-radius: 10px;
+    display: block;
+    margin: 31px auto;
+    /* margin-top: 20px; */
+}
+
+.container h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.container h3{
+    position: absolute;
+    /* margin-top: 12px; */
+    margin: 150px 30rem;
+    font-size: 30px;
+}
+
+#heading{
+    position: absolute;
+    /* margin-top: 12px; */
+    margin: 150px 30rem;
+    font-size: 30px;
+}
+.container h2{
+    position: absolute;
+    /* margin-top: 12px; */
+    margin: 200px 30rem;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#btn-main{
+    position: absolute;
+    /* margin-top: 12px; */
+    margin: 280px -4rem;
+    font-size: 25px;
+    background-color: rgb(165, 247, 247);
+    border: none;
+    padding: 2px 6px;
+}
+#btn-main:hover{
+    background-color: rgb(248, 248, 164);
+    cursor: pointer;
+}
+/* menu section */
+.shop{
+    height: 260vh;
+}
+.products{
+    display: flex;
+    /* flex-wrap: wrap; */
+    height: 50vh;
+    width: 100%;
+    flex-wrap: wrap;
+    /* flex-direction: column-reverse; */
+}
+
+.product img{
+    height: 50vh;
+    width: 100%;
+   
+}
+.product{
+    margin: 20px 40px;
+}
+
+.addtocart{
+    height: 5vh;
+    width: 35%;
+    /* border: none; */
+    border-radius: 10px;
+    color: black;
+    background-color: white;
+}
+.addtocart:hover{
+    color: white;
+    background-color: black;
+}

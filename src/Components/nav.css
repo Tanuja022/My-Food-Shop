@@ -1,0 +1,23 @@
+.navbar{
+    background-color: rgb(78, 202, 202);
+    height: 10vh;
+    display: block;
+    width: 100%;
+}
+.links{
+    float: right;
+    display: flex;
+    margin: -30px 32px;
+    gap: 20px;
+    
+}
+.another-pages{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    text-align: center;
+    padding: 12px 3px;
+   
+}
+
+

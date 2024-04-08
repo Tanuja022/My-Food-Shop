@@ -1,0 +1,28 @@
+.contact{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+input[type=text], select, textarea {
+    width: 70%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+
+
+#btn-contact{
+    height: 6vh;
+    width: 200px;
+    background: linear-gradient(rgb(175, 175, 230),rgb(175, 233, 175));
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+}
+#btn-contact:hover{
+    background: linear-gradient(rgb(175, 233, 175),rgb(175, 175, 230));
+    cursor: pointer;
+}
