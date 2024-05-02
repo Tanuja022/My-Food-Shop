@@ -41,6 +41,11 @@ const About = () => {
           <FaRegUserCircle size={100} id='icon' />
             <h3>member4</h3>
           </div>
+          <div>
+          <FaRegUserCircle size={100} id='icon' />
+            <h3>member4</h3>
+          </div>
+
         </div>
 
       </div>

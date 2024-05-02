@@ -50,17 +50,18 @@
     height: 80vh;
     width: 100%;
     /* border: 1px solid black; */
-    margin: 2px 80px;
+    margin: 2px 115px;
     display: block;
     max-width: 80%;
-    
+    background-color: rgb(205, 201, 209);
 }
 .about-member{
     height: 70vh;
     width: 80%;
     /* border: 1px solid black; */
-    margin: 2px 214px;
+    margin: 2px 104px;
     display: flex;
+    
 }
 .about-member #icon{
     height: 20vh;
